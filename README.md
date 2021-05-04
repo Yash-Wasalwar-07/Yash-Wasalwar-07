@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play cricket 🏏
 
-[<img src="https://novatorem-psi-seven.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Yash_Wasalwar)
+[<img src="https://novatorem-c1nw1bjhh-yash-wasalwar-07.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Yash_Wasalwar)
 
 
 ### Connect With Me:
