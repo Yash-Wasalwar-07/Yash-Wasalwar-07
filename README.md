@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="Yash Wasalwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yash-Wasalwar-07&show_icons=true&hide_border=true">
+<img align="left" alt="Yash Wasalwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yash-Wasalwar-07&show_icons=true&hide_border=true&theme=radical">
 
 
 
