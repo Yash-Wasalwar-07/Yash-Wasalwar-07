@@ -1,5 +1,7 @@
 ### Hola, I am Yash Wasalwar👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/YWasalwar?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+
 ## I'm a Student, Developer and Blogger!
 - 💼 I'm currently working on Python A.I. 
 - 🌱 I’m currently learning everything 🤣
