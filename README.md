@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer and Blogger!
 - 💼 I'm currently working on Python A.I. 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything, basically community work!!
 - 👯 I’m looking to collaborate with other student developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play cricket 🏏
