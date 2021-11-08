@@ -41,7 +41,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START-->
-- [How to use VS Code (for beginners)](https://www.youtube.com/watch?v=bWUju68h3l8)
+- [How to use VS Code &lpar;for beginners&rpar;](https://www.youtube.com/watch?v=bWUju68h3l8)
 <!-- YOUTUBE:END-->
 
 ---
