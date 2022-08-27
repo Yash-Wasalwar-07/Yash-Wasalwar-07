@@ -4,10 +4,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/YWasalwar?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student, Developer and Blogger!
-- 💼 I'm currently working on MERN stack!! 
-- 🌱 I’m currently learning everything, basically community work!!
+- 🌱 I’m currently learning data science!!
 - 👯 I’m looking to collaborate with other student developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Build a holistic approach in data science field.
 - ⚡ Fun fact: I love to draw and play cricket 🏏
 
 [<img src="https://novatorem-c1nw1bjhh-yash-wasalwar-07.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Yash_Wasalwar)
