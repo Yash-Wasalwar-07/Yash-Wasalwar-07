@@ -6,8 +6,8 @@
 ## I'm a Student, Developer and Blogger!
 - 🌱 I’m currently learning data science!!
 - 👯 I’m looking to collaborate with other student developers
-- 🥅 2022 Goals: Build a holistic approach in data science field.
-- ⚡ Fun fact: I love to draw and play cricket 🏏
+- 🥅 2023 Goals: Build a holistic approach in data science field.
+- ⚡ Fun fact: I love to draw...✌️
 
 [<img src="https://novatorem-c1nw1bjhh-yash-wasalwar-07.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Yash_Wasalwar)
 
