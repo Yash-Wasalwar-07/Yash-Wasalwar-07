@@ -1,88 +1,98 @@
 # Hi, I'm Yash 👋
 
-## Aspiring Data Engineer
+## Azure Data Engineering Enthusiast
 
-Passionate about building scalable data pipelines, processing large datasets, and transforming raw data into meaningful insights.
-
----
-
-### 🚀 What I'm Working On
-
-- Building Data Engineering projects using Python and SQL
-- Learning Apache Spark and Databricks
-- Exploring Data Warehousing concepts
-- Practicing ETL and ELT pipeline development
-- Working with modern data lake architectures
+Building scalable data solutions using cloud technologies, modern data platforms, and distributed processing frameworks.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 About Me
 
-#### Languages
+- Passionate about Data Engineering and Cloud Technologies
+- Learning and building projects on Microsoft Azure
+- Interested in designing end-to-end data platforms
+- Exploring modern data lake and warehouse architectures
+- Continuously improving SQL, Python, and Spark skills
+
+---
+
+## ☁️ Azure Data Stack
+
+### Data Ingestion
+- Azure Data Factory (ADF)
+
+### Data Storage
+- Azure Data Lake Storage Gen2 (ADLS)
+
+### Data Processing
+- Azure Databricks
+- Apache Spark
+- PySpark
+
+### Data Warehousing
+- Azure Synapse Analytics
+
+### Data Visualization
+- Power BI
+
+### Programming & Query Languages
 - Python
 - SQL
 
-#### Data Engineering
-- Apache Spark
-- Databricks
-- Delta Lake
-- ETL Pipelines
-- Data Warehousing
-
-#### Databases
-- PostgreSQL
-- MySQL
-
-#### Tools
+### Version Control
 - Git
 - GitHub
-- Linux
-- Jupyter Notebook
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
-- Spark Performance Optimization
-- Distributed Data Processing
+- Azure Data Factory Pipelines
+- Azure Databricks & Spark Optimization
+- Medallion Architecture
+- Delta Lake
 - Data Modeling
-- Airflow
-- Cloud Data Platforms (AWS/Azure)
+- Azure Synapse Analytics
 
 ---
 
-### 🎯 2026 Goals
+## 🏗️ Projects I'm Building
 
-- Build 5+ end-to-end Data Engineering projects
-- Master Spark and Databricks
-- Learn Airflow orchestration
-- Gain expertise in Data Warehousing
-- Transition fully into a Data Engineering role
+### End-to-End Azure Data Pipeline
+Ingest → Transform → Store → Visualize using Azure services.
 
----
+### Data Lakehouse Architecture
+Bronze → Silver → Gold implementation using Delta Lake.
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Wasalwar-07&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Wasalwar-07&layout=compact&hide_border=true)
+### ETL Automation
+Building automated data pipelines with Azure Data Factory and Databricks.
 
 ---
 
-### 🌟 Featured Projects
+## 🎯 2026 Goals
 
-🔹 ETL Pipeline Project
-
-🔹 Data Warehouse Project
-
-🔹 Spark Data Processing Project
-
-🔹 SQL Analytics Project
+- Earn Azure Data Engineering certifications
+- Build production-style Azure Data Engineering projects
+- Master Spark optimization techniques
+- Deep dive into Data Warehousing and Lakehouse architectures
 
 ---
 
-### 📫 Connect
+## 📊 GitHub Stats
 
-LinkedIn: <your-linkedin>
+![Stats](https://github-readme-stats.vercel.app/api?username=Yash-Wasalwar-07&show_icons=true&hide_border=true)
 
-GitHub: github.com/Yash-Wasalwar-07
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Wasalwar-07&layout=compact&hide_border=true)
+
+---
+
+## 🌱 Learning Journey
+
+"Every dataset has a story. My goal is to build systems that help uncover it at scale."
+
+---
+
+## 📫 Connect
+
+- LinkedIn: <your-linkedin-url>
+- GitHub: github.com/Yash-Wasalwar-07
